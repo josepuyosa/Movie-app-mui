@@ -1,0 +1,9 @@
+.pageTitle{
+    font-size: 30px;
+    color:#fff
+}
+.trending {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
